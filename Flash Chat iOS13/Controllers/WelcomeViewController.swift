@@ -1,11 +1,3 @@
-//
-//  WelcomeViewController.swift
-//  Flash Chat iOS13
-//
-//  Created by Angela Yu on 21/10/2019.
-//  Copyright © 2019 Angela Yu. All rights reserved.
-//
-
 import UIKit
 import CLTypingLabel
 
@@ -28,7 +20,7 @@ class WelcomeViewController: UIViewController {
         
         titleLabel.text = K.appName 
         
-//          BRO JUST DO IT THIS WAY! FUCK THE WHOLE TERMIAL BULL SHIT!
+//          THIS WAY!
 //        titleLabel.text = ""
 //        var charIndex = 0.0
 //        let titleText = "⚡️FlashChat"
